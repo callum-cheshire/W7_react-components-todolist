@@ -1,0 +1,19 @@
+.ListItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid rgb(196, 196, 196);
+  border-radius: 10px;
+  padding: 1em;
+}
+
+li {
+  list-style: none;
+  inline-size: calc(100% - 100px);
+  overflow-wrap: break-word;
+}
+
+button {
+  width: 75px;
+  padding: 0.5em;
+}

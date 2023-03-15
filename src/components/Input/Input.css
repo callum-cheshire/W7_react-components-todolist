@@ -1,0 +1,9 @@
+form {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+form input {
+  flex: 1;
+}
